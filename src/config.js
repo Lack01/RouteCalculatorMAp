@@ -1,0 +1,1 @@
+export const MAPBOX_TOKEN = import.meta.env.VITE_REACT_APP_MAPBOX_TOKEN || 'pk.eyJ1IjoibGFjazAwMSIsImEiOiJjbTBiZTZ0cDEwNnJ5MmpzOXg1YTRtMGZuIn0.FNuZDoMxjCaGp8CQAenlDA';
